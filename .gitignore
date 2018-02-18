@@ -1,0 +1,10 @@
+/* Files */
+.DS_Store*
+__MACOSX*
+*.swp
+*.log
+*.sql
+
+/* Folders */
+tmp/
+.vscode/
